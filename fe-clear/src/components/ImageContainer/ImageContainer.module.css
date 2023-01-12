@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.view_count {
+  font-size: 24px;
+  font-weight: 300;
+  margin-top: 8px;
+}
+
+.loading_message {
+  font-size: 24px;
+  font-weight: 300;
+  margin-top: 8px;
+}
